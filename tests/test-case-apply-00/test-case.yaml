@@ -1,0 +1,15 @@
+schema-version: v1
+kind: test
+spec:
+  type: plugin
+  mode: apply
+  inputs:
+    project_name: "Project Example"
+    project_version: "1.0.0"
+    project_description: "Description of my Project Example"
+    project_author: "Author Test"
+  inputs-envs: {}
+  requires:
+    connections: []
+  generates:
+    connections: []
