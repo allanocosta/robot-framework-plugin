@@ -1,4 +1,5 @@
 robotframework
+robotframework-tidy
 robotframework-robocop
 robotframework-jsonlibrary
 robotframework-retryfailed

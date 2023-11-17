@@ -1,16 +1,15 @@
 ## Implementação
-
 Na pasta do seu aplicativo, aplique o **`robot-framework-plugin`** para preencher os arquivos abaixo:
 
 1. Execute o comando:
 
 ```
-stk apply plugin /Users/Home/plugin-doc-template
+stk apply plugin allanpocosta/automation-mindset/robot-framework-plugin
 ```
 
-2. Preencha as informações do Plugin seguindo os exemplos de modelo de arquivo:
+2. Preencha as informações do Plugin seguindo os exemplos abaixo:
 
-- `about.md`
-- `implementation.md`
-- `release-notes@plugin-version.md`
-- `requirements.md`
+- `project_name`: Nome do seu projeto
+- `project_version`: Versão do seu projeto
+- `project_description`: Descrição resumida do seu projeto
+- `project_author`: Autor do projeto
