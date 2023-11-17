@@ -56,5 +56,4 @@ spec:
         - pip install robotframework
         - pip install robotframework-tidy
         - pip install robotframework-robocop
-        - pip install robotframework-jsonlibrary
         - pip install robotframework-retryfailed
