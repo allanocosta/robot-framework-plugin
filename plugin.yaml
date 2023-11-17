@@ -53,4 +53,8 @@ spec:
     - type: run
       trigger: after-render
       commands:
-        - pip install -r requirements.txt
+        - pip install robotframework
+        - pip install robotframework-tidy
+        - pip install robotframework-robocop
+        - pip install robotframework-jsonlibrary
+        - pip install robotframework-retryfailed
