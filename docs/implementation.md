@@ -1,15 +1,6 @@
 ## Implementação
 
-Descreva todas as etapas para usar o Plugin:
-
-- Preencher entradas
-- Quais métodos usar
-- Quais são os recursos?
-- E se necessário, adicione outros recursos que dependem do tipo do seu Plugin.
-
-Veja um exemplo:
-
-Na pasta do seu aplicativo, aplique o **`plugin-doc-template`** para preencher os arquivos abaixo:
+Na pasta do seu aplicativo, aplique o **`robot-framework-plugin`** para preencher os arquivos abaixo:
 
 1. Execute o comando:
 

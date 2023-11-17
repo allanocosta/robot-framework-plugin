@@ -1,3 +1,0 @@
-robotframework
-robotframework-robocop
-robotframework-jsonlibrary
