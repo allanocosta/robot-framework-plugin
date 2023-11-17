@@ -1,4 +1,0 @@
-robotframework
-robotframework-robocop
-robotframework-jsonlibrary
-robotframework-retryfailed
