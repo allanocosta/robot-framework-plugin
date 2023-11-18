@@ -4,7 +4,7 @@ metadata:
   name: robot-framework-plugin
   display-name: robot-framework-plugin
   description: Instalar o core do Robot Framework para desenvolver testes automatizados de aplicações mobile e web.
-  version: 0.0.2
+  version: 0.0.3
   picture: plugin.png
 spec:
   type: app

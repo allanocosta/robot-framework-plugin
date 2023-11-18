@@ -1,3 +1,2 @@
 -d ./log
 -x output-xunit.xml
--v WEB_URL:https://automationexercise.com
