@@ -4,13 +4,9 @@ Documentation       Suite de testes de exemplo
 Resource            ${CURDIR}/../resources/base.resource
 
 
-*** Variables ***
-${WEB_URL}      ${EMPTY}
-
-
 *** Test Cases ***
-Deve Logar Url Base No Report
-    Log                     ${WEB_URL}
+Deve Logar No Report
+    Log                     Este log deve ser exibido apenas no report
 
-Deve Logar Url Base No Console
-    Log To Console          ${WEB_URL}
+Deve Logar No Console
+    Log To Console          Este log deve ser exibido apenas no console

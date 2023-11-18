@@ -12,7 +12,7 @@ spec:
     - python
   about: docs/about.md
   implementation: docs/implementation.md
-  release-notes: docs/release-notes-0.0.1.md
+  release-notes: docs/release-notes.md
   requirements: docs/requirements.md
   single-use: False
   technologies: # Ref: https://docs.stackspot.com/create-use/create-content/yaml-files/plugin-yaml/#technologies-1
